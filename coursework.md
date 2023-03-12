@@ -6,20 +6,31 @@ Martin Hummel
 
 ---
 
-## Why?
+## What?
 
-Hello
-Ciao
+An organization's culture defines the proper way to behave within the organization.
+
+Shared beliefs and values
+
+Reinforced through various methods
+
+Shaping employee perceptions, behaviors and understanding
 
 ---
 
-## What?
+## Why?
 
-![Lasagna] (maryam-jahanmehr-g_BxoUpg1eI-unsplash.jpg)
+Measurement informs better decision making
+
+Measurement builds stronger cultures
+
+Better decisions and stronger cultures increase performance
 
 ---
 
 ## How?
+
+## ![Alt text](Company-Culture-Profile.jpeg)
 
 ---
 
