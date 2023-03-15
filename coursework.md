@@ -31,7 +31,7 @@ Better decisions and stronger cultures increase performance
 ## How?
 
 ## ![Alt text](Company-Culture-Profile.jpeg)
-
+sources: https://www.surpassyourgoals.com/2018/05/6-elements-to-assess-your-companys-culture/
 ---
 
 Thank You
