@@ -4,6 +4,8 @@ Martin Hummel
 
 2023-03-01
 
+<!-- .slide: data-background="./Toulouse.jpg" -->
+
 ---
 
 ## What is Organizational Culture?
