@@ -12,6 +12,8 @@ Martin Hummel
 
 Organizational culture refers to the shared values, beliefs, customs, practices, and behaviors that characterize an organization. It includes the way people interact with one another, how decisions are made, and the attitudes and behaviors that are expected and encouraged within the organization.
 
+![Alt text](Screenshot%202023-04-19%20at%2011.34.16.png)
+
 ---
 
 ## Why Measure Organizational Culture?
@@ -41,6 +43,8 @@ Interviews: Interviews with employees and other stakeholders can provide insight
 Focus Groups: Focus groups can be used to gather feedback from employees and other stakeholders on specific aspects of the organization's culture.
 
 Observations: Observations can be used to assess the organization's culture by observing behaviors, interactions, and other aspects of the organization.
+
+![Alt text](Screenshot%202023-04-19%20at%2011.06.26.png)
 
 ---
 
@@ -76,6 +80,20 @@ Monitor progress: Measuring organizational culture should be an ongoing process,
 
 ---
 
+## Real Life Example
+
+Google: Google's organizational culture is known for being innovative, collaborative, and data-driven. They encourage creativity and risk-taking, with an emphasis on transparency, open communication, and a "fail fast" approach. Employees are encouraged to pursue their passions and are given autonomy and flexibility in their work.
+
+---
+
+Netflix: Netflix's culture is known for being high-performance and results-oriented. They have a strong emphasis on accountability and freedom, with a focus on delivering results rather than micromanaging employees. They also prioritize diversity and inclusion and encourage employees to speak up and challenge the status quo.
+
+---
+
+Patagonia: Patagonia's culture is based on environmental activism and sustainability. They prioritize ethical business practices and social responsibility, with a focus on reducing their environmental impact and promoting sustainable living. They also encourage their employees to take time off to explore the outdoors and support environmental causes.
+
+---
+
 ## Conclusion
 
 Measuring organizational culture is an important process for any organization that wants to understand its current state, identify areas for improvement, and facilitate change. By using multiple methods, key metrics, and best practices, organizations can effectively measure their culture and make meaningful changes that support their mission and values.
@@ -84,6 +102,8 @@ Measuring organizational culture is an important process for any organization th
 
 sources: ChatGPT
 
+<!-- .slide: data-background="./paulette-wooten-N8O54MgWKnQ-unsplash.jpg" -->
+
 ---
 
-Thank you for your attention
+<!-- .slide: data-background="./wilhelm-gunkel-AKQlYooS72w-unsplash.jpg" -->
