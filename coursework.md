@@ -86,15 +86,53 @@ Monitor progress: Measuring organizational culture should be an ongoing process,
 
 ## Real Life Example
 
-Google: Google's organizational culture is known for being innovative, collaborative, and data-driven. They encourage creativity and risk-taking, with an emphasis on transparency, open communication, and a "fail fast" approach. Employees are encouraged to pursue their passions and are given autonomy and flexibility in their work.
+Google's organizational culture is known for being innovative, collaborative, and data-driven. They encourage creativity and risk-taking, with an emphasis on transparency, open communication, and a "fail fast" approach. Employees are encouraged to pursue their passions and are given autonomy and flexibility in their work.
 
 ---
 
-Netflix: Netflix's culture is known for being high-performance and results-oriented. They have a strong emphasis on accountability and freedom, with a focus on delivering results rather than micromanaging employees. They also prioritize diversity and inclusion and encourage employees to speak up and challenge the status quo.
+Google's culture places a high value on innovation. The company encourages its employees to take risks and be creative in their work. In fact, Google's famous 20% time policy allows employees to spend 20% of their workweek on projects that are not related to their job description. This policy has led to some of Google's most successful products, including Gmail and Google Maps.
 
 ---
 
-Patagonia: Patagonia's culture is based on environmental activism and sustainability. They prioritize ethical business practices and social responsibility, with a focus on reducing their environmental impact and promoting sustainable living. They also encourage their employees to take time off to explore the outdoors and support environmental causes.
+Collaboration is an essential part of Google's culture. The company encourages cross-functional teams to work together on projects and values open communication and transparency. Employees are encouraged to share their ideas and opinions freely, and the company provides a range of tools and platforms to facilitate collaboration.
+
+---
+
+Google is known for its rigorous data-driven approach to decision making. The company collects and analyzes vast amounts of data to inform its business decisions. This approach has led to the development of some of Google's most successful products, including AdWords and Google Analytics.
+
+Google has a relatively flat organizational structure, which means that employees have a high degree of autonomy and are empowered to make decisions. The company also places a strong emphasis on transparency and open communication, with regular town hall meetings and open-door policies.
+
+---
+
+Google is famous for its employee perks and benefits, which include free food, onsite gyms, and generous parental leave policies. These perks are designed to create a positive work environment and foster a sense of community among employees.
+
+Overall, Google's organizational culture is focused on creating an environment that fosters creativity, collaboration, and innovation. The company values its employees and invests in their well-being, recognizing that a happy and engaged workforce is essential for success.
+
+---
+
+## Real Life Example
+
+Netflix's culture is known for being high-performance and results-oriented. They have a strong emphasis on accountability and freedom, with a focus on delivering results rather than micromanaging employees. They also prioritize diversity and inclusion and encourage employees to speak up and challenge the status quo.
+
+---
+
+Netflix's culture is centered around achieving high performance and results. The company has a performance-oriented culture, with a focus on hiring and promoting top performers. Netflix also places a strong emphasis on continuous learning and development, with regular feedback and coaching.
+
+Accountability is a key value in Netflix's culture. The company expects its employees to take ownership of their work and to be accountable for their decisions and actions. Netflix also has a policy of paying its employees at the top of the market rate, but also expects top-tier performance in return.
+
+---
+
+Netflix values freedom and autonomy in its employees. The company has a unique approach to vacation time and work hours, with no set limits on either. Employees are expected to be responsible and productive, but are given the freedom to structure their work in a way that suits them best. Netflix also has a no-policy policy, which means that employees are expected to use their own judgment in making decisions, rather than relying on strict policies and rules.
+
+---
+
+Innovation is a key driver of Netflix's culture. The company encourages its employees to experiment and take risks, with a focus on finding new and better ways to do things. Netflix also has a data-driven approach to decision making, with a strong focus on analytics and metrics.
+
+Netflix places a strong emphasis on diversity and inclusion in its culture. The company values different perspectives and experiences, and seeks to create a culture that is inclusive and welcoming to all employees.
+
+---
+
+Overall, Netflix's organizational culture is focused on achieving high performance and results through accountability, freedom, and a culture of innovation. The company values its employees and seeks to create an environment that is supportive, inclusive, and empowering.
 
 ---
 
