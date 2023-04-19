@@ -12,6 +12,8 @@ Martin Hummel
 
 Organizational culture refers to the shared values, beliefs, customs, practices, and behaviors that characterize an organization. It includes the way people interact with one another, how decisions are made, and the attitudes and behaviors that are expected and encouraged within the organization.
 
+---
+
 ![Alt text](Screenshot%202023-04-19%20at%2011.34.16.png)
 
 ---
@@ -43,6 +45,8 @@ Interviews: Interviews with employees and other stakeholders can provide insight
 Focus Groups: Focus groups can be used to gather feedback from employees and other stakeholders on specific aspects of the organization's culture.
 
 Observations: Observations can be used to assess the organization's culture by observing behaviors, interactions, and other aspects of the organization.
+
+---
 
 ![Alt text](Screenshot%202023-04-19%20at%2011.06.26.png)
 
