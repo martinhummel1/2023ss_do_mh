@@ -4,7 +4,7 @@ Martin Hummel
 
 2023-03-01
 
-<!-- .slide: data-background="austin-distel-wD1LRb9OeEo-unsplash.jpg" -->
+<!-- .slide: data-background="all-bong-L2oedF1AsH8-unsplash.jpg" -->
 
 ---
 
@@ -65,7 +65,7 @@ Collaboration measures the level of collaboration and teamwork within the organi
 
 ## Best Practices for Measuring Organizational Culture
 
-Using multiple methods, such as surveys, interviews, and observations
+<!-- .slide: data-background="sven-mieke-fteR0e2BzKo-unsplash.jpg" -->
 
 ---
 
