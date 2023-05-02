@@ -85,8 +85,6 @@ Google's organizational culture is known for being innovative, collaborative, an
 
 <!-- .slide: data-background="rajeshwar-bachu-K4txLik7pnY-unsplash.jpg" -->
 
-Google's culture places a high value on innovation
-
 ---
 
 Collaboration is an essential part of Google's culture
@@ -112,6 +110,8 @@ Netflix's culture is known for being high-performance and results-oriented
 ---
 
 <!-- .slide: data-background="venti-views-lI7dlA5VBp8-unsplash.jpg" -->
+
+---
 
 Netflix's culture is centered around achieving high performance and results
 

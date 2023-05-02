@@ -1,3 +1,3 @@
 # Organisational
 
-theme league
+theme solarized
