@@ -18,6 +18,8 @@ Best Practices for Measuring Organizational Culture
 Real Life Example
 Conclusion
 
+---
+
 ## What is Organizational Culture?
 
 Shared values, beliefs, customs, practices, and behaviors
