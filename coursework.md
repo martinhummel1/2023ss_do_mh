@@ -157,10 +157,8 @@ Measuring organizational culture is an important process for any organization th
 
 ---
 
-sources: ChatGPT
-
-<!-- .slide: data-background="./paulette-wooten-N8O54MgWKnQ-unsplash.jpg" -->
+<!-- .slide: data-background="./wilhelm-gunkel-AKQlYooS72w-unsplash.jpg" -->
 
 ---
 
-<!-- .slide: data-background="./wilhelm-gunkel-AKQlYooS72w-unsplash.jpg" -->
+<!-- .slide: data-background="./paulette-wooten-N8O54MgWKnQ-unsplash.jpg" -->
