@@ -1,3 +1,3 @@
 # Organisational
 
-theme solarized
+theme sky

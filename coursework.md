@@ -8,6 +8,16 @@ Martin Hummel
 
 ---
 
+## Agenda
+
+What is Organizational Culture?
+Why Measure Organizational Culture?
+How to Measure Organizational Culture?
+Key Metrics for Measuring Organizational Culture
+Best Practices for Measuring Organizational Culture
+Real Life Example
+Conclusion
+
 ## What is Organizational Culture?
 
 Shared values, beliefs, customs, practices, and behaviors
